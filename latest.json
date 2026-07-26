@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/HuynhPham765/sudoku-react-native-releases/releases/download/v1.0.0/app-release.apk",
+  "changelog": "Sudoku MVP đầu tiên: Home/Difficulty/Play/Settings, 3 độ khó, viết chì, gợi ý, giới hạn lỗi, giao diện sáng/tối.",
+  "mandatory": false
+}
