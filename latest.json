@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/HuynhPham765/sudoku-react-native-releases/releases/download/v1.0.2/app-release.apk",
-  "changelog": "FIX QUAN TRỌNG: sửa vòng lặp render vô hạn ở NumberPad khiến PlayScreen không phản hồi (chọn ô, nút hành động, bàn phím số, timer). Đã test trực tiếp, xác nhận hoạt động đầy đủ. Cũng fix ô \"ma\" bị tô xanh, border xám nhạt, hàng số cao hơn, giới hạn thời gian sinh đề an toàn.",
-  "mandatory": true
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/HuynhPham765/sudoku-react-native-releases/releases/download/v1.0.3/app-release.apk",
+  "changelog": "Fix: nút back (màn hình lẫn nút back vật lý Android) ở màn Chơi giờ luôn về thẳng Trang chủ, không dừng ở màn Chọn độ khó.",
+  "mandatory": false
 }
