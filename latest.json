@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/HuynhPham765/sudoku-react-native-releases/releases/download/v1.0.0/app-release.apk",
-  "changelog": "Sudoku MVP đầu tiên: Home/Difficulty/Play/Settings, 3 độ khó, viết chì, gợi ý, giới hạn lỗi, giao diện sáng/tối.",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/HuynhPham765/sudoku-react-native-releases/releases/download/v1.0.1/app-release.apk",
+  "changelog": "Fix: version hiển thị sai (1.0.3 cũ) → đúng 1.0.1. Fix PlayScreen: bỏ ô \"ma\" bị tô xanh trên điện thoại, border bàn cờ xám nhạt, hàng số cao hơn, độ khó Khó chặn thời gian sinh đề an toàn.",
   "mandatory": false
 }
