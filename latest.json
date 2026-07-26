@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/HuynhPham765/sudoku-react-native-releases/releases/download/v1.0.1/app-release.apk",
-  "changelog": "Fix: version hiển thị sai (1.0.3 cũ) → đúng 1.0.1. Fix PlayScreen: bỏ ô \"ma\" bị tô xanh trên điện thoại, border bàn cờ xám nhạt, hàng số cao hơn, độ khó Khó chặn thời gian sinh đề an toàn.",
-  "mandatory": false
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/HuynhPham765/sudoku-react-native-releases/releases/download/v1.0.2/app-release.apk",
+  "changelog": "FIX QUAN TRỌNG: sửa vòng lặp render vô hạn ở NumberPad khiến PlayScreen không phản hồi (chọn ô, nút hành động, bàn phím số, timer). Đã test trực tiếp, xác nhận hoạt động đầy đủ. Cũng fix ô \"ma\" bị tô xanh, border xám nhạt, hàng số cao hơn, giới hạn thời gian sinh đề an toàn.",
+  "mandatory": true
 }
