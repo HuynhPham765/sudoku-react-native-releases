@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/HuynhPham765/sudoku-react-native-releases/releases/download/v1.0.3/app-release.apk",
-  "changelog": "Fix: nút back (màn hình lẫn nút back vật lý Android) ở màn Chơi giờ luôn về thẳng Trang chủ, không dừng ở màn Chọn độ khó.",
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/HuynhPham765/sudoku-react-native-releases/releases/download/v1.0.4/app-release.apk",
+  "changelog": "Fix UI: màu ô tô nhạt hơn, border bàn cờ đều 4 cạnh, số ở bàn phím to hơn. Thêm cơ chế điểm số + chuỗi (streak). Độ khó Khó giờ ~21-23 số cho sẵn, luôn ít hơn Trung bình. Thêm loading khi sinh đề Khó.",
   "mandatory": false
 }
